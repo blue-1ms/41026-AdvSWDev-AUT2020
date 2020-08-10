@@ -18,5 +18,5 @@ Pending Revision
 Pending Revision
 
 ## File Structure
-- /
+- **/real-infostate_React_base**
 Pending Revision
