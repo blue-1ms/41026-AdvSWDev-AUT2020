@@ -17,12 +17,10 @@
   },
 
   "scripts": {
-    "prepare": "npm run install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "gcp-build": "tsc -p .",
-    "deploy": "gcloud app deploy"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
